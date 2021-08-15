@@ -1,5 +1,5 @@
 # Autoencoder
-Various Autoencoders:
+Various Autoencoders:\n
 -Autoencoder(with only bottleneck)
 -Noisy Autoencoder
 -Sparse Autoencoder
