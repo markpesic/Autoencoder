@@ -1,6 +1,6 @@
 # Autoencoder
-Various Autoencoders:\n
--Autoencoder(with only bottleneck)
--Noisy Autoencoder
--Sparse Autoencoder
+Various Autoencoders: <br/>
+-Autoencoder(with only bottleneck),<br/>
+-Noisy Autoencoder,<br/>
+-Sparse Autoencoder,<br/>
 -VAE
